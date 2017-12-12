@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9AE46FA6-A33D-4F9A-A0CD-60D8A9F892D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissors PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D88EA70F-918D-4C55-BDDD-F80D0ADC7426">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RockPaperScissors>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissors/Main.storyboard">
+    <Files>
+      <File FileName="RockPaperScissors/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="RockPaperScissors/Main.storyboard" />
+      <File FileName="RockPaperScissors/ViewController.cs" Line="108" Column="34" />
+      <File FileName="RockPaperScissors/Main.cs" Line="12" Column="1" />
+      <File FileName="RockPaperScissors/scoreStats.cs" Line="21" Column="65" />
+      <File FileName="RockPaperScissors/getPlayerInfo.cs" Line="26" Column="45" />
+      <File FileName="RockPaperScissors/LaunchScreen.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="RockPaperScissors" expanded="True">
+            <Node name="RockPaperScissors" expanded="True">
+              <Node name="Assets.xcassets" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

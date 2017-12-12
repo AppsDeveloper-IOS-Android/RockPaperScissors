@@ -1,0 +1,10 @@
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/bin/iPhoneSimulator/Debug/RockPaperScissors.exe
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/bin/iPhoneSimulator/Debug/RockPaperScissors.pdb
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/bin/iPhoneSimulator/Debug/ToastIOS.dll
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/RockPaperScissors.exe
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/RockPaperScissors.pdb
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/akifraza/Projects/RockPaperScissors/RockPaperScissors/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
